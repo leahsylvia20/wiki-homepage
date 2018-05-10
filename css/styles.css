@@ -1,0 +1,15 @@
+.green-header {
+  background-color: #c3ddba;
+  border: 1px solid #dddddd ;
+}
+
+.green-row {
+  margin-left: 10em;
+  border: 1px solid #44703b;
+  margin-top: 10px;
+  background-color: #e8ffe0;
+}
+
+.panel {
+  margin: 10px;
+}
